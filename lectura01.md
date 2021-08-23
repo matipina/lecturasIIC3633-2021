@@ -2,7 +2,7 @@
 ### IIC3633 - Sistemas Recomendadores
 #### Matías Piña
 
-El paper nos explica en primer lugar el concepto de filtrado colaborativo, donde se evaluan elementos basándose en las opiniones de otras personas con respecto a estos. Además de esta explicación general, se nos presenta un poco de historia respecto a este tipo de tecnologías, explicando distintas técnicas que se fueron desarrollando para abordar desafíos de este tipo.
+El paper nos explica en primer lugar el concepto de filtrado colaborativo, donde se evalúan elementos basándose en las opiniones de otras personas con respecto a estos. Además de esta explicación general, se nos presenta un poco de historia respecto a este tipo de tecnologías, explicando distintas técnicas que se fueron desarrollando para abordar desafíos de este tipo.
 
 Este artículo tiene un gran valor para quien se esté introduciendo por primera vez en tecnologías de este tipo, ya que se presentan definiciones formales de conceptos clave en el área, como *rating*, usuario o ítems, y es indispensable conocer estos para entender bien el funcionamiento de un sistema recomendador. Ademásm estas explicaciones se dan de manera pedagógica y fácil de entender, sin la necesidad de tener experiencia previa. Posteriormente también se realizan explicaciones más técnicas de distintos algoritmos de filtrado colaborativo, mencionando ventajas y desventajas de cada uno de estos.
 
