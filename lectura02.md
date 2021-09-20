@@ -1,4 +1,4 @@
-# Lectura 01: *Matrix Factorization Techniques for Recommender Systems*
+# Lectura 02: *Matrix Factorization Techniques for Recommender Systems*
 ### IIC3633 - Sistemas Recomendadores
 #### Matías Piña
 
